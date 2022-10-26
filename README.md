@@ -1,1 +1,3 @@
-# Color-Flipper
+# Color-Flipper Project
+
+-Utilize basic javascript 
